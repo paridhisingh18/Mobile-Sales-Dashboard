@@ -1,7 +1,7 @@
 # 📊 Mobile-Sales-Dashboard
 
 ## 🔍 Project Overview
-This Power BI dashboard presents a comprehensive analysis of Motorola mobile phone sales across India, focusing on top-performing models, customer behavior, payment preferences, and regional trends. Designed for business stakeholders and data enthusiasts, it transforms raw sales data into actionable insights through dynamic visuals and intuitive filters.
+This Power BI dashboard presents a comprehensive analysis of  Mobile phone sales across India, focusing on top-performing models, customer behavior, payment preferences, and regional trends. Designed for business stakeholders and data enthusiasts, it transforms raw sales data into actionable insights through dynamic visuals and intuitive filters.
 
 ---
 
@@ -109,4 +109,4 @@ The dashboard features a map of India with city-wise sales volumes. Major contri
 
 ## 📸 Dashboard Preview
 
-![Motorola Sales Dashboard](https://github.com/paridhisingh18/Motorola-Sales-Dashboard/blob/main/Dashboard_Snapshot.png)
+![Mobile Sales Dashboard](https://github.com/paridhisingh18/Mobile-Sales-Dashboard/blob/main/Dashboard_Snapshot.png)
